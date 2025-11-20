@@ -18,7 +18,12 @@ var myVar = "Hello, world!";
 myVar = "Python"
 ```
 
+- [x] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+
 my first commit
+
 
 
 
