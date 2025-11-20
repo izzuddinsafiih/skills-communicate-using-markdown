@@ -5,5 +5,8 @@
 ##### I am very enthusiast in data and AI
 ###### I want to be a bilionaire in this sector
 
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
 
 my first commit
+
