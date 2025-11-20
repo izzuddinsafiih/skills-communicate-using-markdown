@@ -19,10 +19,11 @@ myVar = "Python"
 ```
 
 - [x] Turn on GitHub Pages
-- [ ] Outline my portfolio
-- [ ] Introduce myself to the world
+- [x] Outline my portfolio
+- [x] Introduce myself to the world
 
 my first commit
+
 
 
 
